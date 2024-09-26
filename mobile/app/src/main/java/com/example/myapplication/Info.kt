@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
+import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 
 class Info : AppCompatActivity() {
@@ -13,9 +14,9 @@ class Info : AppCompatActivity() {
         enableEdgeToEdge()
 
         setContentView(R.layout.activity_info)
-        val buttonView = findViewById<Button>(R.id.floatingActionButton)
+        val floatingActionButton = findViewById<FloatingActionButton>(R.id.floatingActionButton) // Cambia Button a FloatingActionButton
 
-        buttonView.setOnClickListener {
+        floatingActionButton.setOnClickListener {
             val intent = Intent(this, Home::class.java)
             startActivity(intent)
         }
