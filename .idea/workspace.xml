@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="802a6ff7-d620-4e7e-bf2d-41b8363d57f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mobile/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mobile/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ux-web/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ux-web/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ux-web" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,81 +27,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/Users/lucystell/Documents/MISW-UX-Alarma-GrupoW2",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lucystell/Documents/MISW-UX-Alarma-GrupoW2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.Kotlin&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="myalarm" type="AndroidRunConfigurationType" factoryName="Android App">
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="true" />
-      <option name="ALWAYS_INSTALL_WITH_PM" value="true" />
-      <option name="CLEAR_APP_STORAGE" value="true" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Hybrid>
-      <Java>
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Java>
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2" />
-    </configuration>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
